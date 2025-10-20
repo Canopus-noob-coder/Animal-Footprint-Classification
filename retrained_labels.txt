@@ -1,0 +1,10 @@
+bear
+cat
+chicken
+cow
+dog
+duck
+horse
+rabbit
+rat
+squirrel
